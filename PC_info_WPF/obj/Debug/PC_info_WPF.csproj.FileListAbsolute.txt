@@ -1,0 +1,15 @@
+C:\Users\ZakharovIA\source\repos\PC_info_WPF\PC_info_WPF\obj\Debug\PC_info_WPF.csprojAssemblyReference.cache
+C:\Users\ZakharovIA\source\repos\PC_info_WPF\PC_info_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\ZakharovIA\source\repos\PC_info_WPF\PC_info_WPF\obj\Debug\App.g.cs
+C:\Users\ZakharovIA\source\repos\PC_info_WPF\PC_info_WPF\obj\Debug\PC_info_WPF_MarkupCompile.cache
+C:\Users\ZakharovIA\source\repos\PC_info_WPF\PC_info_WPF\obj\Debug\PC_info_WPF_MarkupCompile.lref
+C:\Users\ZakharovIA\source\repos\PC_info_WPF\PC_info_WPF\bin\Debug\PC_info_WPF.exe.config
+C:\Users\ZakharovIA\source\repos\PC_info_WPF\PC_info_WPF\bin\Debug\PC_info_WPF.exe
+C:\Users\ZakharovIA\source\repos\PC_info_WPF\PC_info_WPF\bin\Debug\PC_info_WPF.pdb
+C:\Users\ZakharovIA\source\repos\PC_info_WPF\PC_info_WPF\obj\Debug\MainWindow.baml
+C:\Users\ZakharovIA\source\repos\PC_info_WPF\PC_info_WPF\obj\Debug\PC_info_WPF.g.resources
+C:\Users\ZakharovIA\source\repos\PC_info_WPF\PC_info_WPF\obj\Debug\PC_info_WPF.Properties.Resources.resources
+C:\Users\ZakharovIA\source\repos\PC_info_WPF\PC_info_WPF\obj\Debug\PC_info_WPF.csproj.GenerateResource.cache
+C:\Users\ZakharovIA\source\repos\PC_info_WPF\PC_info_WPF\obj\Debug\PC_info_WPF.csproj.CoreCompileInputs.cache
+C:\Users\ZakharovIA\source\repos\PC_info_WPF\PC_info_WPF\obj\Debug\PC_info_WPF.exe
+C:\Users\ZakharovIA\source\repos\PC_info_WPF\PC_info_WPF\obj\Debug\PC_info_WPF.pdb
